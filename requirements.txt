@@ -1,6 +1,5 @@
-NumPy
-joblib
-scikit-learn
-pandas
 Flask
-Gunicorn
+pandas
+scikit-learn
+nltk
+gunicorn
